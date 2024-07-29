@@ -1,0 +1,12 @@
+.navbar {
+    padding: 1em 0;
+}
+
+.navbar ul li {
+    margin-right: 1em;
+}
+
+.navbar ul li:last-child {
+    margin-left: auto;
+    margin-right: 0;
+}
